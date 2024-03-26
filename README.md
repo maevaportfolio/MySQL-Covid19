@@ -11,10 +11,10 @@ This project is my journey into analyzing COVID-19 vaccination data to contribut
 ## Core Functionalities and Queries
 I've employed various MySQL features to conduct this analysis:
 
-**Concatenation**: For displaying individuals' full names.
-Average and Percentage Calculations: To determine the vaccination campaign's efficiency.
-**Data Deletion**: To clean the data for analysis.
-**Table Creation**: For segmenting the analysis.
-**Conditional Filtering**: For analyzing data according to specific criteria.
-**Join Operations**: To enrich the analysis with additional data.
-**Duplicate Management**: To ensure analysis accuracy.
+**Concatenation**: For displaying individuals' full names.  
+Average and Percentage Calculations: To determine the vaccination campaign's efficiency.  
+**Data Deletion**: To clean the data for analysis.  
+**Table Creation**: For segmenting the analysis.  
+**Conditional Filtering**: For analyzing data according to specific criteria.  
+**Join Operations**: To enrich the analysis with additional data.  
+**Duplicate Management**: To ensure analysis accuracy.  
