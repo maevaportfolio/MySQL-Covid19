@@ -1,4 +1,4 @@
-# COVID-19 Vaccination Data ANlysis with MySQL 
+# COVID-19 Vaccination Data Analysis with MySQL 
 
 ![image](https://github.com/maevaportfolio/MySQL-Covid19/assets/108234726/f5b79ae9-5013-497e-876d-a2e499dc5b6f)
 
